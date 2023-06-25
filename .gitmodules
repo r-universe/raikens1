@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "stratamatch"]
 	path = stratamatch
-	url = https://github.com/raikens1/stratamatch
+	url = https://github.com/cran/stratamatch
 	shallow = true
 	registered = true
